@@ -36,7 +36,7 @@ public void title_of_login_page_is_Free_Crm() throws Throwable {
 
 	 String title = driver.getTitle();
 	 System.out.println(title);
-	 System.out.println("into the title testing module");
+	 System.out.println("into the title testing module and also to make sure that the dunction");
 		/* Assert.assertEquals("#1 Free CRM for Any Business: Online Customer Relationship Software", title);*/
     
 }
